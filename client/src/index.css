@@ -1,0 +1,15 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+input{
+  background-color: #f3f4f6;
+  outline: none;
+  padding:7px 5px 7px 5px;
+  border-radius: 5px;
+}
+
+.input-div{
+  display: flex;
+  flex-direction: column;
+}
