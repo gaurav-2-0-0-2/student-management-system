@@ -12,7 +12,7 @@
 {
     "name": "John Doe",
     "email": "jhon@gmail.com",
-    "password": 123456,
+    "password": "123456",
     "profilePhoto": "pfp.jpg"
     "branch": "CSE",
     "semester": 5
@@ -24,7 +24,7 @@
 ```json
 {
     "email": "jhon@gmail.com",
-    "password": 123456,
+    "password": "123456",
 }
 ```
 
